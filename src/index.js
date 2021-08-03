@@ -7,10 +7,8 @@ import './functionBased/App.css'
 import { HashRouter as Router } from "react-router-dom"
 
 ReactDOM.render(
-  <React.StrictMode>
     <Router>
       <ToDoContainer />
-    </Router>
-  </React.StrictMode>,
+    </Router>,
   document.getElementById('root')
 )
