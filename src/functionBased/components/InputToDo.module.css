@@ -1,0 +1,10 @@
+.inputSubmit svg {
+  color: darkcyan;
+  font-size: 20px;
+  margin-top: 2px;
+}
+
+.inputSubmit {
+  border: none;
+  background: none;
+}
