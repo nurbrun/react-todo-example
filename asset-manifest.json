@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nurbrun/react-todo-example/static/css/main.4da72238.chunk.css",
-    "main.js": "/nurbrun/react-todo-example/static/js/main.383f03bf.chunk.js",
-    "main.js.map": "/nurbrun/react-todo-example/static/js/main.383f03bf.chunk.js.map",
+    "main.js": "/nurbrun/react-todo-example/static/js/main.f062c414.chunk.js",
+    "main.js.map": "/nurbrun/react-todo-example/static/js/main.f062c414.chunk.js.map",
     "runtime-main.js": "/nurbrun/react-todo-example/static/js/runtime-main.bcd68ad3.js",
     "runtime-main.js.map": "/nurbrun/react-todo-example/static/js/runtime-main.bcd68ad3.js.map",
     "static/js/2.898fca44.chunk.js": "/nurbrun/react-todo-example/static/js/2.898fca44.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.bcd68ad3.js",
     "static/js/2.898fca44.chunk.js",
     "static/css/main.4da72238.chunk.css",
-    "static/js/main.383f03bf.chunk.js"
+    "static/js/main.f062c414.chunk.js"
   ]
 }
