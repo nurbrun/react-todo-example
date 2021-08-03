@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/nurbrun/react-todo-example/static/css/main.4da72238.chunk.css",
-    "main.js": "/nurbrun/react-todo-example/static/js/main.f062c414.chunk.js",
-    "main.js.map": "/nurbrun/react-todo-example/static/js/main.f062c414.chunk.js.map",
-    "runtime-main.js": "/nurbrun/react-todo-example/static/js/runtime-main.bcd68ad3.js",
-    "runtime-main.js.map": "/nurbrun/react-todo-example/static/js/runtime-main.bcd68ad3.js.map",
-    "static/js/2.898fca44.chunk.js": "/nurbrun/react-todo-example/static/js/2.898fca44.chunk.js",
-    "static/js/2.898fca44.chunk.js.map": "/nurbrun/react-todo-example/static/js/2.898fca44.chunk.js.map",
-    "index.html": "/nurbrun/react-todo-example/index.html",
-    "static/css/main.4da72238.chunk.css.map": "/nurbrun/react-todo-example/static/css/main.4da72238.chunk.css.map",
-    "static/js/2.898fca44.chunk.js.LICENSE.txt": "/nurbrun/react-todo-example/static/js/2.898fca44.chunk.js.LICENSE.txt"
+    "main.css": "/react-todo-project/static/css/main.4da72238.chunk.css",
+    "main.js": "/react-todo-project/static/js/main.f062c414.chunk.js",
+    "main.js.map": "/react-todo-project/static/js/main.f062c414.chunk.js.map",
+    "runtime-main.js": "/react-todo-project/static/js/runtime-main.60e5b08d.js",
+    "runtime-main.js.map": "/react-todo-project/static/js/runtime-main.60e5b08d.js.map",
+    "static/js/2.898fca44.chunk.js": "/react-todo-project/static/js/2.898fca44.chunk.js",
+    "static/js/2.898fca44.chunk.js.map": "/react-todo-project/static/js/2.898fca44.chunk.js.map",
+    "index.html": "/react-todo-project/index.html",
+    "static/css/main.4da72238.chunk.css.map": "/react-todo-project/static/css/main.4da72238.chunk.css.map",
+    "static/js/2.898fca44.chunk.js.LICENSE.txt": "/react-todo-project/static/js/2.898fca44.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bcd68ad3.js",
+    "static/js/runtime-main.60e5b08d.js",
     "static/js/2.898fca44.chunk.js",
     "static/css/main.4da72238.chunk.css",
     "static/js/main.f062c414.chunk.js"
